@@ -1,0 +1,12 @@
+
+**/*.vo
+**/*.glob
+**/*.aux
+**/*.zip
+**/*.rar
+**/*.cmi
+**/*.cmo
+**/*.exe
+**/*.mli
+**/*.rar
+**/*.vscode
